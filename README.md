@@ -1,0 +1,1 @@
+# oop_10-abstract-class--method
